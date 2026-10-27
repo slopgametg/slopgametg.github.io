@@ -1,0 +1,9 @@
+{
+  "name": "cat-firefighter-telegram",
+  "version": "1.0.0",
+  "description": "Кот-пожарный: мини-приложение Telegram (игра, вход, рейтинги, монеты за звёзды)",
+  "type": "module",
+  "private": true,
+  "engines": { "node": ">=18" },
+  "scripts": { "start": "node server.js" }
+}
